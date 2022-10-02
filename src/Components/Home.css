@@ -1,0 +1,124 @@
+body{
+    background-color: #08002a !important;
+    width: 100%;
+}
+#nav-bar{
+    background-color: #08002a;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+
+}
+#song-name-inp{
+    width: 600px;
+    height: 50px;
+    margin-top: 40px;
+}
+#search-btn{
+    margin-top: 40px;
+    height: 50px;
+}
+#music-list{
+    list-style-type: none;
+    
+
+}
+
+.list-item{
+    display: flex;
+    align-items: center;
+    display: flex;
+    color: white;
+    margin-bottom: 30px;
+}
+.rounded{
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+}
+.cont{
+    height: 100vh ;
+   
+}
+
+.cc{
+    width: 157px!important;
+    height: 150px!important;
+    border-radius: 5px !important;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    border-radius: 5px !important;
+    height: 100px;
+    width: 100%;
+}
+.card-body{
+    height: 10px;
+    display: flex;
+    align-items: center;
+
+}
+.card-text{
+    width: 100% !important;
+    white-space: nowrap;
+    font-weight: 500;
+    color: white;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.bi{
+    float: right;
+    
+}
+#down-btn{
+    background-color: transparent;
+    width: 50px;
+    height: 50px;
+    background-image: url("../Drawables/download-btn.png");
+    background-size: 30px,30px;
+    background-repeat: no-repeat;
+}
+.conti{
+    background-color: #f1f3f4;
+    display: none;
+    align-items: center;
+    /* justify-content: center; */
+    height: 130px;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    float: left;
+    transform: translate3d(-105px, 290px, 10px);
+
+}
+#play_title{
+    width: 220px;
+    white-space: nowrap;
+    font-weight: 500;
+    color: black;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+#audioplayer{
+    width: 897px;
+    margin-right: 31px;
+    background-color: #f1f3f4 !important;
+}
+#audio_img{
+    width: 65px;
+    height: 65px;
+    border-radius: 5px;
+    object-fit: cover;
+
+}
+@media screen and (max-width: 991px) {
+    .row {
+       justify-content: center;
+    }
+  }
