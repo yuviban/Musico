@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Musico/static/css/main.4a7fef77.css",
+    "main.js": "/Musico/static/js/main.1ce18bb2.js",
+    "static/js/787.b5c9389e.chunk.js": "/Musico/static/js/787.b5c9389e.chunk.js",
+    "index.html": "/Musico/index.html",
+    "main.4a7fef77.css.map": "/Musico/static/css/main.4a7fef77.css.map",
+    "main.1ce18bb2.js.map": "/Musico/static/js/main.1ce18bb2.js.map",
+    "787.b5c9389e.chunk.js.map": "/Musico/static/js/787.b5c9389e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a7fef77.css",
+    "static/js/main.1ce18bb2.js"
+  ]
+}
